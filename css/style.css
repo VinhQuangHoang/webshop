@@ -1,0 +1,159 @@
+
+body,input,button,option,textarea,label,h1,h2,h3,h4,h5,h6,a {
+    font: 14px/18px Tahoma, Arial, sans-serif;
+    color: #333;
+    outline: none;
+    text-decoration: none;
+}
+.search-top.in-header {
+    right: 160px;
+    left: 10px;
+    right: 10px;
+}
+body {
+    background: #f5f5f5;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; outline: none;
+}
+img {
+    border: 0;
+}
+
+header {
+    background: #0c2745;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 108px;
+}
+
+.header-wrapper {
+    height: 56px; 
+} 
+
+.header-wrapper .logo {
+    margin: 6.5px 0px;
+}
+
+.header-wrapper .search {
+    margin: 9px 0px;
+}
+
+.header-wrapper .shopping-cart {
+    margin: 14px 20px;
+    color: #f5f5f5;
+}
+
+.nav-menu ul {
+      display: table;
+      height: 100%;
+      width: 100%;
+}
+
+.nav-menu li{
+    display: table-cell;
+    border: none !important;
+    margin: 0;
+    vertical-align: middle;
+}
+
+
+.header-content .header-nav {
+    width: 100%;
+    overflow: hidden;
+}
+
+.nav-menu li{
+    padding-right: 40px;
+    font-size: 30px;
+}
+
+.nav-menu {
+    background: #0c2745;
+}
+
+.header-content .header-nav ul li a {
+    color: #f5f5f5;
+}
+
+.search .search-icon{
+    padding-right: 10px;
+}
+
+.search .search-bg {
+    background: #febd69;
+}
+
+.br-clear {
+    clear: both;
+} 
+.product-list {
+    /* border-top: 1px solid #E47911; */
+    padding-top: 30px;
+}
+.category-title {
+    margin-top: 15px;
+    font-size: 20px;
+    color: #e47911;
+    display: block;
+    line-height: 26px;
+    border-bottom: 1px solid #E47911;
+    width: 98.5%;
+    padding-bottom: 15px;
+}
+
+
+.product-list .product-item {
+    text-align: center;
+    margin-bottom: 20px !important;
+}
+
+.product-list .product-item .card-image {
+    width: 130px;
+    height: 150px;
+}
+
+.product-list .product-item .card-image {
+    margin: 35px auto 15px auto; 
+}
+
+.product-list .product-item .product-price {
+    padding: 0px 15px 0 0 ;
+}
+
+.product-list.product-item .product-name {
+    font-size: 14px;
+    color: #333;
+    padding: 10px 0px;
+    margin: 0;
+}
+
+.product-list .product-item .product-price .old-price {
+    font-size: 11px;
+    padding: 10px 5px 10px 10px;
+    text-decoration: line-through;
+}
+
+.product-list .product-item .list-group-item {
+    border: none;
+}
+
+.product-list .product-item .product-price .price {
+    font-size: 14px;
+    font-weight: bold;
+    color: #E47911;
+}
+
+
+
+
+
+
+
+
+
+
+
